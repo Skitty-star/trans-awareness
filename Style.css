@@ -20,7 +20,7 @@ header h2 {
 }
 
 nav a {
-    color: Black;
+    font-color: Black;
     text-decoration: none;
     margin-left: 20px;
     font-weight: bold;
