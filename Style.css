@@ -1,1 +1,65 @@
+/* Reset some default spacing */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
 
+/* Navigation Bar */
+header {
+    background-color: #2c3e50;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+}
+
+header h2 {
+    margin: 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #00d4ff;
+}
+
+/* Hero Section */
+section {
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+section h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+section p {
+    font-size: 20px;
+    max-width: 700px;
+    margin: 0 auto 30px auto;
+}
+
+button {
+    background-color: white;
+    color: #2575fc;
+    border: none;
+    padding: 15px 30px;
+    margin: 10px;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #e6e6e6;
+}
