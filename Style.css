@@ -9,7 +9,7 @@ title {
     margin: 0;
 }
 
-header img {
+header h2 {
     height: 60px;
     width: auto;
 }
@@ -21,10 +21,6 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px 50px;
-}
-
-header h2 {
-    margin: 0;
 }
 
 nav a: {
