@@ -8,6 +8,11 @@ body {
 title {
     margin: 0;
 }
+
+header img {
+    height: 60px;
+    width: auto;
+}
 /* Navigation Bar */
 header {
     background-color: #2c3e50;
