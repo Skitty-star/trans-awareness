@@ -20,13 +20,13 @@ header h2 {
 }
 
 nav a {
-    color: white;
+    color: Black;
     text-decoration: none;
     margin-left: 20px;
     font-weight: bold;
 }
 
-nav a:hover {
+nav a: hover {
     color: #00d4ff;
 }
 
